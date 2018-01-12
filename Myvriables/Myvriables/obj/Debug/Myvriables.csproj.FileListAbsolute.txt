@@ -1,0 +1,7 @@
+F:\Visual Studio\Myvriables\Myvriables\bin\Debug\Myvriables.exe.config
+F:\Visual Studio\Myvriables\Myvriables\bin\Debug\Myvriables.exe
+F:\Visual Studio\Myvriables\Myvriables\bin\Debug\Myvriables.pdb
+F:\Visual Studio\Myvriables\Myvriables\obj\Debug\Myvriables.csprojResolveAssemblyReference.cache
+F:\Visual Studio\Myvriables\Myvriables\obj\Debug\Myvriables.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Myvriables\Myvriables\obj\Debug\Myvriables.exe
+F:\Visual Studio\Myvriables\Myvriables\obj\Debug\Myvriables.pdb
